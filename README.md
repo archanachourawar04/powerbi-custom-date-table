@@ -49,3 +49,15 @@ MID()
 CONCATENATE() (without delimiter)
 
 CONCATENATE() (with delimiter)
+
+## What This Date Table Includes
+
+✔ Continuous Date Range
+✔ Month Number
+✔ Month Name (Full & Short)
+✔ Week Number
+✔ Week (Full & Short)
+✔ Custom Year-Month Column
+✔ Text Manipulation Examples (left, right, mid)
+✔ Concatenated Columns (with & without delimiter)
+
