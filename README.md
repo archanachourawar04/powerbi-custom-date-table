@@ -12,3 +12,40 @@ The date table was built manually using the <b>CALENDAR()</b> function and enhan
 2) String manipulation using DAX
 
 3) Custom formatting logic
+
+## Tools & Technologies
+
+1) Power BI Desktop
+
+2) DAX (Data Analysis Expressions)
+
+3) Data Modeling Concepts
+
+## DAX Functions Implemented
+<b> Date Functions </b>
+
+CALENDAR()
+
+MONTH()
+
+DATE()
+
+WEEKNUM()
+
+WEEKDAY()
+
+## Formatting Function
+
+FORMAT()
+
+## Text Functions
+
+LEFT()
+
+RIGHT()
+
+MID()
+
+CONCATENATE() (without delimiter)
+
+CONCATENATE() (with delimiter)
