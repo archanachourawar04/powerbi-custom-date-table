@@ -52,7 +52,7 @@ CONCATENATE() (with delimiter)
 
 ## What This Date Table Includes
 
-✔ Continuous Date Range
+✔ Continuous Date Range <br>
 ✔ Month Number
 ✔ Month Name (Full & Short)
 ✔ Week Number
