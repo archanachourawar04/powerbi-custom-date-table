@@ -53,11 +53,26 @@ CONCATENATE() (with delimiter)
 ## What This Date Table Includes
 
 ✔ Continuous Date Range <br>
-✔ Month Number
-✔ Month Name (Full & Short)
-✔ Week Number
-✔ Week (Full & Short)
-✔ Custom Year-Month Column
-✔ Text Manipulation Examples (left, right, mid)
-✔ Concatenated Columns (with & without delimiter)
+✔ Month Number<br>
+✔ Month Name (Full & Short)<br>
+✔ Week Number<br>
+✔ Week (Full & Short)<br>
+✔ Custom Year-Month Column<br>
+✔ Text Manipulation Examples (left, right, mid)<br>
+✔ Concatenated Columns (with & without delimiter)<br>
+
+## Purpose of This Project
+
+Instead of using <b> CALENDARAUTO() <b>, I created a fully customized date table to:
+
+1) Gain deeper understanding of DAX <br>
+2) Practice string functions in real scenarios <br>
+3) Learn how formatting impacts data type <br>
+4) Prepare a proper Date table for analytical models <br>
+
+## Conclusion
+
+This project demonstrates the creation of a custom Date Dimension using DAX in Power BI. By building the table manually with CALENDAR() and applying date and text functions, I strengthened my understanding of data modeling and Time Intelligence preparation.
+
+It reflects my practical knowledge of DAX, string manipulation, and building reusable, model-ready components for analytical reporting.
 
