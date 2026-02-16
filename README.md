@@ -7,8 +7,8 @@ This repository contains a custom-built Date Dimension Table created using DAX i
 
 The date table was built manually using the CALENDAR() function and enhanced with multiple calculated columns using date and text functions. The purpose of this project was to understand:
 
-Date modeling in Power BI
+1) Date modeling in Power BI
 
-String manipulation using DAX
+2) String manipulation using DAX
 
-Custom formatting logic
+3) Custom formatting logic
